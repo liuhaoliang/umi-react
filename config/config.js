@@ -24,6 +24,7 @@ export default {
   targets: {
     ie: 11,
   },
+  history: 'hash',
   // 路由配置
   routes: pageRoutes,
   // theme: {
